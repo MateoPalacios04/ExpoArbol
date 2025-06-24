@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class Ataque {
+enum Ataque {
+    DDOS, BRUTE_FORCE, MITM
 }
